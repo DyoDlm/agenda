@@ -1,0 +1,185 @@
+GLOSSAIRE :
+
+-	'!'	--> Rapport / presentation
+-	'!!'	--> Examen
+-	'?'	--> A checker
+-	'---'	--> Debut et fin de semaine
+-	'<-->'	--> Intervalle de temps
+-	'###'	--> Debut de mois
+-	'...'	--> Completer
+-	'-->'	--> What
+
+cours = { PHY ; MATH ; MOT ; MIC ; ELE ; C ; MATE ; SIG ; EDC ; CHI }
+
+#########################
+#	OCTOBRE-Oct		#
+#########################
+
+Lundi : 06.10.25 <--> Vendredi : 10.10.25
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:	!! MIC --> mesures
+WE:
+---
+
+Lundi : 13.10.25 <--> Vendredi : 17.10.25 
+---
+Lu:	!! MATE --> miller, rayons X
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 20.10.25 <--> Vendredi : 25.10.25
+---	Semaine sans cours	---
+Lu:	nc
+Ma:	nc
+Me:	nc
+Je:	nc
+Ve:	nc
+WE:	nc
+---
+
+Lundi : 27.10.25 <--> Vendredi :
+---
+Lu:
+Ma: 
+Me:	!! MATH --> EDO 1/2 & Laplace
+Je: ! CAO --> chignole
+Ve:
+WE:
+---
+
+#########################
+#	--------	#
+#	NOVEMBRE	#
+#	--------	#
+#########################
+
+Lundi : 03.11.25 <--> Vendredi : 07.11.25 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 10.11.25 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:	!! Moteurs --> chap 00--06
+Ve:
+WE:
+---
+
+Lundi : 17.11.25 <--> Vendredi :
+---
+Lu:	!! PHY --> oscillateurs
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 24.11.25 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+
+#########################
+#	DECEMBRE	#
+#########################
+
+Lundi : 01.12.25 <--> Vendredi : 05.12.25 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 08.12.25 <--> Vendredi : 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 15.12.25 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 22.12.25 <--> Vendredi : 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 29.12.25 <--> Vendredi : 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+
+#########################
+#	JANVIER		#
+#########################
+
+
+
+
+#########################
+#	FEVRIER		#
+#########################
+
+#################
+#	MARS	#
+#################
+
+#################
+#	AVRIL	#
+#################
+
+#################
+#	MAI	#
+#################
+
+#################
+#	JUIN	#
+#################

@@ -1,0 +1,7 @@
+
+physique : ex 0 -> ex 5
+physique : automatiser analyse python
+
+sigaux : poser un systeme
+
+maths : ex00 -> ex15
