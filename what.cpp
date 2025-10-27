@@ -31,6 +31,9 @@ static const std::string	months[12] = {
 	"AOUT", "SEPTEMBRE", "OCTOBRE", "NOVEMBRE", "DECEMBRE"
 };
 
+static const std::string	months_ref[12] = {
+	"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
+
 static const std::string	materias[11] = {
 	"MATH", "PHYSIQUE", "MATERIAU", "CHIMIE", "MICROTECH",
 	"ELECTRONIQUE", "MOTEURS", "EDC", "SIGNAUX", "C", "CAO"
@@ -39,6 +42,32 @@ static const std::string	materias[11] = {
 static const std::string	pseudos[11] = {
 	"MATH", "PHY", "MATE", "CHI", "MIC", "ELE", "MOT", "EDC", "SIG", "C", "CAO"
 };
+
+static std::string      getTime()
+{
+    struct tm* ptr;
+    // Variable to store current time
+    time_t t;
+    // Get current time
+    t = time(NULL);
+    // Convert it to local time
+    ptr = localtime(&t);
+    return asctime(ptr);
+}
+
+static std::string 	thisMonth()
+{
+	std::string	now(getTime());
+	int		month =0;
+
+	for (int i = 0; i < 12; i++)
+	{
+		month = i;
+		if (now.find(months_ref[i]) != std::string::npos)
+			break ;
+	}
+	return months[month];
+}
 
 std::string	getContent(std::string file)
 {
@@ -54,6 +83,12 @@ std::string	getContent(std::string file)
 		buf.append("\n");
 	}
 	return buf;
+}
+
+int	before(std::string a, std::string b)
+{
+	return 0;
+	(void)a; (void)b;
 }
 
 int	propose()
@@ -80,6 +115,8 @@ std::string	month(std::string content, std::string m = "OCTOBRE")
 	size_t	end = 0;
 	std::string	next = "";
 
+
+	m = thisMonth();
 	for (int i = 0; i < 12; i++)
 	{
 		if (months[i] == m)
@@ -114,6 +151,30 @@ std::string	materia(std::string content, std::string m = "all")
 
 std::string	exams(std::string content)
 {
+	std::ifstream	r("agenda.txt");
+	std::string		date = "";
+	std::string		previous = "";
+	std::string		line;
+	std::string		month;
+	std::string		today = getTime();
+
+	while (std::getline(r, line))
+	{
+		if (line.find("<-->") != std::string::npos)
+		{
+			date = line;
+			std::cout << "\n";
+		}
+		if (line.find("!!") != std::string::npos)
+		{
+			if (date == previous)
+				std::cout << "";
+			else
+				std::cout << date << std::endl;
+			std::cout << "\t" << line << "\n" << std::endl;
+			previous = date;
+		}
+	}
 	return ""; (void)content;
 }
 
@@ -182,6 +243,8 @@ int	filter(std::string f, std::string input)
 	// }
 // 
 	std::cout << "Filtering input\n" << std::flush;
+	if (input == "now")
+		return 1;//display(), 1;
 	for (int i = 0; i < g_max_materia; i++)
 	{
 		if (input == materias[i])
@@ -195,12 +258,16 @@ int	filter(std::string f, std::string input)
 	return 1;
 }
 
+
+
 int	main(int ac, char **av)
 {
 
 	switch (ac)
 	{
 		case 0:
+			break ;
+		case 1:
 			break ;
 		case 2:
 			filter(std::string(av[1]), std::string(""));
@@ -223,6 +290,8 @@ int	main(int ac, char **av)
 
 	int	option = propose();
 
+	std::cout << "Time : " << getTime();
 	display(option, "", std::string(asctime(ptr)));
+	std::cout << "time : " << asctime(ptr) << std::endl;
 	return 0;
 }

@@ -27,9 +27,9 @@ WE:
 
 Lundi : 13.10.25 <--> Vendredi : 17.10.25 
 ---
-Lu:	!! MATE --> miller, rayons X
-Ma:
-Me:
+Lu:	!! MATE --> 2-7-8-11-12-15-17-19-20-24-26-27-33-34-39-40-44->54
+Ma:	! CAO
+Me:	RDV Cremasco
 Je:
 Ve:
 WE:
@@ -47,33 +47,33 @@ WE:	nc
 
 Lundi : 27.10.25 <--> Vendredi :
 ---
-Lu:
-Ma: 
+Lu:	Exa blanc Signaux
+Ma:
 Me:	!! MATH --> EDO 1/2 & Laplace
-Je: ! CAO --> chignole
-Ve:
+Je:
+Ve:	!! Chimie --> intro + chap 1 + chap 2	
 WE:
 ---
 
 #########################
 #	--------	#
-#	NOVEMBRE	#
+#	NOVEMBRE-Nov	#
 #	--------	#
 #########################
 
 Lundi : 03.11.25 <--> Vendredi : 07.11.25 
 ---
-Lu:
+Lu:	!! Signaux et Systemes
 Ma:
 Me:
 Je:
-Ve:
+Ve:	!! Conception Microtechnique ?
 WE:
 ---
 
 Lundi : 10.11.25 <--> Vendredi :
 ---
-Lu:
+Lu:	!! Electronique--> (1: thevenin/Norton | 2: Saut indiciel | 3: AOP)
 Ma:
 Me:
 Je:	!! Moteurs --> chap 00--06
@@ -93,7 +93,7 @@ WE:
 
 Lundi : 24.11.25 <--> Vendredi :
 ---
-Lu:
+Lu:	!! Materiaux
 Ma:
 Me:
 Je:
@@ -101,9 +101,8 @@ Ve:
 WE:
 ---
 
-
 #########################
-#	DECEMBRE	#
+#	DECEMBRE-Dec	#
 #########################
 
 Lundi : 01.12.25 <--> Vendredi : 05.12.25 
@@ -118,7 +117,7 @@ WE:
 
 Lundi : 08.12.25 <--> Vendredi : 
 ---
-Lu:
+Lu:	!!	Maths --> distro
 Ma:
 Me:
 Je:
@@ -158,23 +157,29 @@ WE:
 
 
 #########################
-#	JANVIER		#
+#	JANVIER-Jan	#
 #########################
 
+12-->  !! Signaux et systemes
+12-->	!! Materiaux (a deplacer le 19)
 
-
+19-->	!! MATHS --> Fourier
 
 #########################
-#	FEVRIER		#
+#	FEVRIER-Feb	#
 #########################
-
+Rattrapage maths fourier
 #################
 #	MARS	#
 #################
 
+18-->	!! Materiaux
+
 #################
 #	AVRIL	#
 #################
+
+29-->	!!	Materiaux
 
 #################
 #	MAI	#
@@ -183,3 +188,5 @@ WE:
 #################
 #	JUIN	#
 #################
+
+11-->	!!	Materiaux
