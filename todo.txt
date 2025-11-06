@@ -1,7 +1,8 @@
 
-physique : ex 0 -> ex 5
-physique : automatiser analyse python
+physique 	: ex 0 -> ex 15
 
-sigaux : poser un systeme
+elec		: thevenin/norton + saut indinciel + AOP
 
-maths : ex00 -> ex15
+Microtec	: lire slides
+
+

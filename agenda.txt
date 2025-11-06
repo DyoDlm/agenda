@@ -63,20 +63,20 @@ WE:
 
 Lundi : 03.11.25 <--> Vendredi : 07.11.25 
 ---
-Lu:	!! Signaux et Systemes
+Lu:	
 Ma:
 Me:
-Je:
-Ve:	!! Conception Microtechnique ?
+Je:	!! Rendre Labo Microtechnique
+Ve:	!! Conception Microtechnique
 WE:
 ---
 
 Lundi : 10.11.25 <--> Vendredi :
 ---
-Lu:	!! Electronique--> (1: thevenin/Norton | 2: Saut indiciel | 3: AOP)
-Ma:
+Lu:	!! Sigaux et systemes
+Ma:	!! C da shit out of eusebe
 Me:
-Je:	!! Moteurs --> chap 00--06
+Je:
 Ve:
 WE:
 ---
@@ -84,9 +84,10 @@ WE:
 Lundi : 17.11.25 <--> Vendredi :
 ---
 Lu:	!! PHY --> oscillateurs
-Ma:
+	!! Electronique (1. thevenin/Norton | 2. Saut indiciel | 3. AOP)
+Ma:	
 Me:
-Je:
+Je:	!! Moteurs --> chap 00--06
 Ve:
 WE:
 ---
@@ -94,8 +95,8 @@ WE:
 Lundi : 24.11.25 <--> Vendredi :
 ---
 Lu:	!! Materiaux
-Ma:
-Me:
+Ma:	!! Rendu 8h15 rapport Physique 
+Me:	!! EDC
 Je:
 Ve:
 WE:
@@ -117,10 +118,10 @@ WE:
 
 Lundi : 08.12.25 <--> Vendredi : 
 ---
-Lu:	!!	Maths --> distro
+Lu:	!!	Maths --> distro + series fourier
 Ma:
 Me:
-Je:
+Je:	!!	CAO --> Rendu cao + mise en plan chignole
 Ve:
 WE:
 ---
@@ -160,33 +161,276 @@ WE:
 #	JANVIER-Jan	#
 #########################
 
-12-->  !! Signaux et systemes
-12-->	!! Materiaux (a deplacer le 19)
+Lundi : 12.01.26 <--> Vendredi :
+---
+Lu:	12-->  !! Signaux et systemes
+	12-->  !! Materiaux
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
 
-19-->	!! MATHS --> Fourier
+Lundi : 19.01.26 <--> Vendredi :
+---
+Lu:	!!	MATHS --> Fourier
+Ma:
+Me:
+Je:	!! Moteurs 
+	!! Maths --> Transformation de Fourier
+Ve:
+WE:
+---
+
+Lundi : 26.01.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
 
 #########################
 #	FEVRIER-Feb	#
 #########################
-Rattrapage maths fourier
+-Rattrapage maths -->	series de fourier
+
+Lundi : 02.02.26 <--> Vendredi : 
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 09.02.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 16.02.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 23.02.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
 #################
 #	MARS	#
 #################
 
-18-->	!! Materiaux
+Lundi : 02.03.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 09.03.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 16.03.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:	18-->   !! Materiaux
+Je:
+Ve:
+WE:
+---
+
+Lundi : 23.03.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 30.03.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
 
 #################
 #	AVRIL	#
 #################
 
-29-->	!!	Materiaux
+Lundi : 06.04.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 13.04.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 20.04.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 27.04.26 <--> Vendredi :
+---
+Lu:
+Ma:	29-->   !!      Materiaux
+Me:
+Je:
+Ve:
+WE:
+---
 
 #################
 #	MAI	#
 #################
 
+Lundi : 04.05.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 11.05.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 18.05.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 25.05.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
 #################
 #	JUIN	#
 #################
 
-11-->	!!	Materiaux
+Lundi : 01.06.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 08.06.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:        11-->   !!      Materiaux
+Je:
+Ve:
+WE:
+---
+
+Lundi : 15.06.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 22.06.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+
+Lundi : 29.06.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:
+Je:
+Ve:
+WE:
+---
+

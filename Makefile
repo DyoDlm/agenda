@@ -1,4 +1,4 @@
-SRC = what.cpp
+SRC = srcs/what.cpp
 NAME = look
 CC = c++ -Wall -Wextra -Werror
 

@@ -4,6 +4,18 @@
 #include <stddef.h>
 #include <time.h>
 
+typedef enum {
+	OCTOBRE,
+	NOVEMBRE,
+	DECEMBRE,
+	JANVIER,
+	FEVRIER,
+	MARS,
+	AVRIL,
+	MAI,
+	JUIN
+}	e_months;
+
 typedef enum e_options
 {
 	O_MONTH,
@@ -27,12 +39,11 @@ const int	g_max_materia = 11;
 const int	g_max_month = 12;
 
 static const std::string	months[12] = {
-	"JANVIER", "FEVRIER", "MARS", "AVRIL", "MAI", "JUIN", "JUILLET",
-	"AOUT", "SEPTEMBRE", "OCTOBRE", "NOVEMBRE", "DECEMBRE"
+	"JULLET", "AOUT", "SEPTEMBRE", "OCTOBRE", "NOVEMBRE", "DECEMBRE", "JANVIER", "FEVRIER", "MARS", "AVRIL", "MAI", "JUIN"
 };
 
 static const std::string	months_ref[12] = {
-	"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
+	"Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun"};
 
 static const std::string	materias[11] = {
 	"MATH", "PHYSIQUE", "MATERIAU", "CHIMIE", "MICROTECH",
@@ -55,6 +66,17 @@ static std::string      getTime()
     return asctime(ptr);
 }
 
+static void	info()
+{
+	std::ifstream	i("../README.md");
+	std::string	line;
+
+	while (std::getline(i, line))
+	{
+		std::cout << line << std::endl;
+	}
+}
+
 static std::string 	thisMonth()
 {
 	std::string	now(getTime());
@@ -67,6 +89,16 @@ static std::string 	thisMonth()
 			break ;
 	}
 	return months[month];
+}
+
+static std::string	nextMonth()
+{
+	std::string	next = "";
+	int	i = 0;
+	
+	while (months[i] != thisMonth())
+		i++;
+	return months[i + 1];
 }
 
 std::string	getContent(std::string file)
@@ -111,30 +143,23 @@ int	propose()
 
 std::string	month(std::string content, std::string m = "OCTOBRE")
 {
-	size_t	begin = content.find(m);
-	size_t	end = 0;
-	std::string	next = "";
+	(void)content;
+	(void)m;
+	std::ifstream	s("agenda.txt");
+	std::string	line;
 
-
-	m = thisMonth();
-	for (int i = 0; i < 12; i++)
-	{
-		if (months[i] == m)
-		{
-			if (i == 11)
-				next = "JANVIER";
-			else
-				next = months[i + 1];
+	std::cout << "next is : " << nextMonth()
+		<< "\nthis month : " << thisMonth() << std::endl;
+	while (std::getline(s, line))
+		if (line.find(thisMonth()) != std::string::npos)
 			break ;
-		}
+	while (std::getline(s, line))
+	{
+		std::cout << line << std::endl;
+		if (line.find(nextMonth()) != std::string::npos)
+			break ;
 	}
-	end = content.find(next);
-
-	std::cout << m;
-	if (end == std::string::npos || begin == std::string::npos) {
-		std::cout << "Data not found\n"; return ""; }
-	std::string foo = content.substr(begin, end - begin);
-	return foo;
+	return "";
 }
 
 std::string	week(std::string content, std::string w = "now")
@@ -158,8 +183,22 @@ std::string	exams(std::string content)
 	std::string		month;
 	std::string		today = getTime();
 
+	int	before = 1;
+	int	lundis = 0;
 	while (std::getline(r, line))
 	{
+		if (line.find("Lundi") != std::string::npos && lundis++ > 4)
+			break ;
+		if (before)
+		{
+			while (std::getline(r, line))
+			{
+				if (line.find(thisMonth()) != std::string::npos)
+					break ;
+			}
+			before = 0;
+		}
+				
 		if (line.find("<-->") != std::string::npos)
 		{
 			date = line;
@@ -255,14 +294,13 @@ int	filter(std::string f, std::string input)
 		if (input == months[i])
 			return display(O_MONTH, input),1;
 	}
-	return 1;
+	return 0;//display(flags;
 }
 
 
 
 int	main(int ac, char **av)
 {
-
 	switch (ac)
 	{
 		case 0:
@@ -293,5 +331,6 @@ int	main(int ac, char **av)
 	std::cout << "Time : " << getTime();
 	display(option, "", std::string(asctime(ptr)));
 	std::cout << "time : " << asctime(ptr) << std::endl;
+	info();
 	return 0;
 }
