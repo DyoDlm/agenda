@@ -85,6 +85,7 @@ Lundi : 17.11.25 <--> Vendredi :
 ---
 Lu:	!! PHY --> oscillateurs
 	!! Electronique (1. thevenin/Norton | 2. Saut indiciel | 3. AOP)
+		==> deplace au 24.11
 Ma:	
 Me:
 Je:	!! Moteurs --> chap 00--06
