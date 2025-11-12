@@ -73,6 +73,9 @@ WE:
 
 Lundi : 10.11.25 <--> Vendredi :
 ---
+
+	!Bosser PHYSIQUE EXA + RAPPORT! 
+
 Lu:	!! Sigaux et systemes
 Ma:	!! C da shit out of eusebe
 Me:
@@ -86,16 +89,24 @@ Lundi : 17.11.25 <--> Vendredi :
 Lu:	!! PHY --> oscillateurs
 	!! Electronique (1. thevenin/Norton | 2. Saut indiciel | 3. AOP)
 		==> deplace au 24.11
-Ma:	
+
+
+	!Bosser MOTEURS et AVANCER RAPPORT PHY!
+Ma:
 Me:
 Je:	!! Moteurs --> chap 00--06
+	
+	!Bosser RAPPORT PHY et ELECTRONIQUE!
+
 Ve:
-WE:
+WE:	
 ---
 
 Lundi : 24.11.25 <--> Vendredi :
 ---
 Lu:	!! Materiaux
+		==> deplace semaine suivante 
+	!! Electronique
 Ma:	!! Rendu 8h15 rapport Physique 
 Me:	!! EDC
 Je:
@@ -109,7 +120,7 @@ WE:
 
 Lundi : 01.12.25 <--> Vendredi : 05.12.25 
 ---
-Lu:
+Lu:	!! Materiaux
 Ma:
 Me:
 Je:
