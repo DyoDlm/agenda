@@ -87,9 +87,6 @@ WE:
 Lundi : 17.11.25 <--> Vendredi :
 ---
 Lu:	!! PHY --> oscillateurs
-	!! Electronique (1. thevenin/Norton | 2. Saut indiciel | 3. AOP)
-		==> deplace au 24.11
-
 
 	!Bosser MOTEURS et AVANCER RAPPORT PHY!
 Ma:
@@ -104,9 +101,7 @@ WE:
 
 Lundi : 24.11.25 <--> Vendredi :
 ---
-Lu:	!! Materiaux
-		==> deplace semaine suivante 
-	!! Electronique
+Lu:	!! Electronique (1. thevenin/Norton | 2. Saut indiciel | 3. AOP)
 Ma:	!! Rendu 8h15 rapport Physique 
 Me:	!! EDC
 Je:
@@ -123,34 +118,35 @@ Lundi : 01.12.25 <--> Vendredi : 05.12.25
 Lu:	!! Materiaux
 Ma:
 Me:
-Je:
+Je:	!! rendu Rapport materieau
 Ve:
 WE:
 ---
 
 Lundi : 08.12.25 <--> Vendredi : 
 ---
-Lu:	!!	Maths --> distro + series fourier
+Lu:	!!	Maths --> distro (ABSENT)
 Ma:
 Me:
 Je:	!!	CAO --> Rendu cao + mise en plan chignole
-Ve:
+Ve:	!!	Chimie	(ABSENT)
 WE:
 ---
 
 Lundi : 15.12.25 <--> Vendredi :
 ---
 Lu:
-Ma:
-Me:
+Ma:	!! RATTRAPAGE Chimie chapitres 3 et 4 !!
+Me:	
 Je:
-Ve:
+Ve:	!!!! Ramener du ptn de son au bosson
 WE:
 ---
 
 Lundi : 22.12.25 <--> Vendredi : 
 ---
-Lu:
+	SEMAINE SANS COURS
+Lu:	
 Ma:
 Me:
 Je:
@@ -160,6 +156,7 @@ WE:
 
 Lundi : 29.12.25 <--> Vendredi : 
 ---
+	SEMAINE SANS COURS
 Lu:
 Ma:
 Me:
@@ -173,12 +170,23 @@ WE:
 #	JANVIER-Jan	#
 #########################
 
+Lundi : 05.01.26 <--> Vendredi :
+---
+Lu:
+Ma:
+Me:	7 --> !! Examen EDC
+	!! Labo test electronique
+Je:
+Ve:	9 --> !! Examen Conception Microtechniques
+WE:
+---
+
 Lundi : 12.01.26 <--> Vendredi :
 ---
 Lu:	12-->  !! Signaux et systemes
 	12-->  !! Materiaux
-Ma:
-Me:
+Ma:	13-->  !! CAO Presentation
+Me:	! 14 --> ratrapage laboratoir Signaux Lauriat
 Je:
 Ve:
 WE:
@@ -186,21 +194,27 @@ WE:
 
 Lundi : 19.01.26 <--> Vendredi :
 ---
-Lu:	!!	MATHS --> Fourier
+Lu:	!!	Electronique 
 Ma:
 Me:
-Je:	!! Moteurs 
-	!! Maths --> Transformation de Fourier
-Ve:
+Je:	!!	Moteurs 
+	!!	Maths --> Transformation de Fourier
+
+Ve:	! 23 --> Rattrapage Laboratoire Signaux Martina 
 WE:
 ---
 
 Lundi : 26.01.26 <--> Vendredi :
 ---
+!!!	RATTRAPAGES	!!!
+
+-	Math (fonctions a plusieurs variables)
+
+
 Lu:
 Ma:
 Me:
-Je:
+Je
 Ve:
 WE:
 ---
