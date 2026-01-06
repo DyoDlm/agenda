@@ -1,8 +1,85 @@
+//////////////////////
+//	Physique
+//////////////////////
 
-physique 	: ex 0 -> ex 15
+a) exercices physique 1--15
 
-elec		: thevenin/norton + saut indinciel + AOP
 
-Microtec	: lire slides
+
+
+//////////////////
+//	Maths	
+//////////////////
+
+a) integrales par partie
+
+b) series de Fourier
+
+c) Transformees de Fourier
+
+d) fonctions a plusieurs variables (rattrapage)
+
+
+
+
+/////////////////////////////
+//	Materiau
+////////////////////////////
+
+a) Presentation Optique 
+
+b) Slides polymeres
+
+
+
+
+//////////////////////////
+//	EDC
+//////////////////////////
+
+a) Presentation pour 28
+
+b) reviser chaine de cotes
+
+
+
+
+//////////////////////////
+//	Moteurs
+//////////////////////////
+
+a) Dimensionnement moteur
+
+b) revision exament
+	--> revoir ancien examen 
+(ex1--> QCM theorique ex2--> Dimensionnment ex3--> lecture datasheet)
+
+
+////////////////////////////
+//      Microtechniques
+////////////////////////////
+
+a) lire les slides
+
+b) rattraper labo wheastone
+
+
+
+
+//////////////////////////////////
+//	Signaux et systemes
+//////////////////////////////////
+
+a) revision chapitres 6 a 9
+
+
+
+////////////////////////////
+//	Electronique
+///////////////////////////
+
+a) prepa labo test
+
+b) examen 19
 
 

@@ -183,11 +183,14 @@ WE:
 
 Lundi : 12.01.26 <--> Vendredi :
 ---
-Lu:	12-->  !! Signaux et systemes
-	12-->  !! Materiaux
+Lu:	12-->  !! Materiaux
+	12-->  !! PHYSIQUE
+
 Ma:	13-->  !! CAO Presentation
+	15h --> revision (exa blanc) electronique
+
 Me:	! 14 --> ratrapage laboratoir Signaux Lauriat
-Je:
+Je:	!! presentation Materiaux
 Ve:
 WE:
 ---
@@ -195,12 +198,15 @@ WE:
 Lundi : 19.01.26 <--> Vendredi :
 ---
 Lu:	!!	Electronique 
-Ma:
+	!!	Signaux et systemes
+
+Ma:	!!	Presentation Physique 
+	!!	ARCHITECTURE EXA
 Me:
-Je:	!!	Moteurs 
+Je:	!!	Moteurs --> parties 11 a 13
 	!!	Maths --> Transformation de Fourier
 
-Ve:	! 23 --> Rattrapage Laboratoire Signaux Martina 
+Ve:	! 23 --> Rattrapage Laboratoire Martina 
 WE:
 ---
 
@@ -214,7 +220,7 @@ Lundi : 26.01.26 <--> Vendredi :
 Lu:
 Ma:
 Me:
-Je
+Je:
 Ve:
 WE:
 ---
