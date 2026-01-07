@@ -183,14 +183,16 @@ WE:
 
 Lundi : 12.01.26 <--> Vendredi :
 ---
-Lu:	12-->  !! Materiaux
-	12-->  !! PHYSIQUE
+Lu:	!!	12-->  Materiaux
+	!!	12-->  PHYSIQUE
 
-Ma:	13-->  !! CAO Presentation
-	15h --> revision (exa blanc) electronique
+Ma:	!!	13-->  CAO Presentation
+		15h --> revision (exa blanc) electronique
 
-Me:	! 14 --> ratrapage laboratoir Signaux Lauriat
-Je:	!! presentation Materiaux
+Me:	!!	14 --> EDC
+	!	14 --> ratrapage laboratoir Signaux Lauriat
+
+Je:	!!	presentation Materiaux
 Ve:
 WE:
 ---
