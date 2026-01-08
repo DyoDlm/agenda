@@ -174,8 +174,7 @@ Lundi : 05.01.26 <--> Vendredi :
 ---
 Lu:
 Ma:
-Me:	7 --> !! Examen EDC
-	!! Labo test electronique
+Me:	!! Labo test electronique
 Je:
 Ve:	9 --> !! Examen Conception Microtechniques
 WE:
@@ -183,45 +182,52 @@ WE:
 
 Lundi : 12.01.26 <--> Vendredi :
 ---
-Lu:	!!	12-->  Materiaux
-	!!	12-->  PHYSIQUE
+Lu:	!!	12-->  Materiaux 	\	15h00
+	!!	12-->  PHYSIQUE		\	10h15
 
-Ma:	!!	13-->  CAO Presentation
-		15h --> revision (exa blanc) electronique
+Ma:	!!	13-->  CAO Presentation \ 	08h40
+	
+15h --> revision (exa blanc) electronique \	15h00
 
-Me:	!!	14 --> EDC
-	!	14 --> ratrapage laboratoir Signaux Lauriat
 
-Je:	!!	Moteurs AC et 3p --> ex2 et qcm AC(1,2,3)
-	!!	presentation Materiaux
+Me:	!!	14 --> EDC 		\	08h15
+
+14 --> ratrapage laboratoir Signaux Lauriat \	??
+
+
+Je:	!!	Moteurs AC et 3p	\	15h00
+		--> ex2 et qcm AC(1,2,3)
+
+	!!	presentation Materiaux \	??
 Ve:
 WE:
 ---
 
 Lundi : 19.01.26 <--> Vendredi :
 ---
-Lu:	!!	Electronique 
+Lu:	!!	Electronique		\	08h15 
 	!!	Signaux et systemes
 
-Ma:	!!	Presentation Physique 
-	!!	ARCHITECTURE EXA
+Ma:	!!	Presentation Physique	\	?? 
+	!!	ARCHITECTURE EXA	\	15h00
 Me:
-Je:	!!	Maths --> Transformation de Fourier
+Je:	!!	Maths			\	13h00
+		--> Transformation de Fourier
 
-Ve:	! 23 --> Rattrapage Laboratoire Martina 
+Ve:	! Rattrapage Laboratoire Martina \ 	??
 WE:
 ---
 
-Lundi : 26.01.26 <--> Vendredi :
+sLundi : 26.01.26 <--> Vendredi :
 ---
-!!!	RATTRAPAGES	!!!
+!s!!	RATTRAPAGES	!!!
 
--	Math (fonctions a plusieurs variables)
+-	Math (fonctions a plusieurs variables) \ ??
 
 
 Lu:
-Ma:
-Me:
+Ma1:
+Me:1
 Je:
 Ve:
 WE:
