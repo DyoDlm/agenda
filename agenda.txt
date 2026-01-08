@@ -192,7 +192,8 @@ Ma:	!!	13-->  CAO Presentation
 Me:	!!	14 --> EDC
 	!	14 --> ratrapage laboratoir Signaux Lauriat
 
-Je:	!!	presentation Materiaux
+Je:	!!	Moteurs AC et 3p --> ex2 et qcm AC(1,2,3)
+	!!	presentation Materiaux
 Ve:
 WE:
 ---
@@ -205,8 +206,7 @@ Lu:	!!	Electronique
 Ma:	!!	Presentation Physique 
 	!!	ARCHITECTURE EXA
 Me:
-Je:	!!	Moteurs --> parties 11 a 13
-	!!	Maths --> Transformation de Fourier
+Je:	!!	Maths --> Transformation de Fourier
 
 Ve:	! 23 --> Rattrapage Laboratoire Martina 
 WE:
