@@ -210,11 +210,13 @@ Lu:	!!	Electronique		\	08h15
 
 Ma:	!!	Presentation Physique	\	?? 
 	!!	ARCHITECTURE EXA	\	15h00
-Me:
+
+Me:	!	Labo Lauriat		\	15h00 ?
+
 Je:	!!	Maths			\	13h00
 		--> Transformation de Fourier
 
-Ve:	! Rattrapage Laboratoire Martina \ 	??
+Ve:	! Rattrapage Laboratoire Martina \ 	13h00
 WE:
 ---
 
