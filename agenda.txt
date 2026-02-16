@@ -294,11 +294,10 @@ WE:
 
 Lundi : 09.02.26 <--> Vendredi :
 ---
-Lu:
-Lu:
+Lu:  RDV 14h00 Bastianelli
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:
+Ma: RDV 11h00 PESOTO
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -314,10 +313,10 @@ WE:
 
 Lundi : 16.02.26 <--> Vendredi :
 ---
-Lu:
+Lui:	RDV 14h SOLIDWATTS 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:
+Ma:	RDV 9H50 BOURQUIN
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -474,7 +473,7 @@ WE:
 
 Lundi : 13.04.26 <--> Vendredi :
 ---
-Lu:
+Lu:	!!	PHYSIQUE ELECTROMAGNETISME
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:
@@ -634,7 +633,7 @@ WE:
 
 Lundi : 08.06.26 <--> Vendredi :
 ---
-Lu:
+Lu:	!!	PHYSIQUE OPTIQUE 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:
