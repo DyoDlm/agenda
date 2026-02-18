@@ -394,7 +394,7 @@ WE:
 
 Lundi : 16.03.26 <--> Vendredi :
 ---
-Lu:
+Lu:	RDV CREMASCO
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:
@@ -499,7 +499,7 @@ Lu:
 Ma:
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Me:
+Me:	!! Traitement du signal (cours 1,2,3 + Labo 1)
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Je:
@@ -641,6 +641,7 @@ Ma:
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:	!!	Materiaux
+	!!	Traitement du signal (cours 4,5,6)
 
 Je:
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
