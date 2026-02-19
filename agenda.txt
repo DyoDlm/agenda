@@ -422,7 +422,7 @@ Ma:
 Me:
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Je:
+Je:	!! MICROTECHNIQUES 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ve:
@@ -643,7 +643,7 @@ Ma:
 Me:	!!	Materiaux
 	!!	Traitement du signal (cours 4,5,6)
 
-Je:
+Je:	!!	MICROTECHNIQUES
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ve:
