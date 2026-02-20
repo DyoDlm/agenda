@@ -333,7 +333,7 @@ WE:
 
 Lundi : 23.02.26 <--> Vendredi :
 ---
-Lu:
+Lu:	!! CUNO COLLINE 13h50
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:
