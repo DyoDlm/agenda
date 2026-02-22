@@ -1,0 +1,43 @@
+---SB---
+Math ->
+	->
+
+Physique -> 13.04
+	-> 08.06
+
+
+
+---Electrique---
+Systemes -> NC
+	-> NC
+
+Elec -> NC
+	-> NC
+
+Tds -> 22.04
+	-> 10.06
+
+
+---Conception---
+Chimie -> NC
+	-> NC
+
+Mt -> NC
+	-> NC
+
+Materiau -> OK
+	-> OK
+	-> OK
+
+
+---Options---
+Bioing -> NC
+	-> NC
+Amc -> NC
+	-> NC
+
+Opto -> 21.04
+	-> 9.06 ou 16.06
+
+Radio -> 21.04
+	-> 02.06
