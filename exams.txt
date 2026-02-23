@@ -1,6 +1,6 @@
 ---SB---
-Math -> 
-	->
+Math -> 27.04 
+	-> 08.06
 
 Physique -> 13.04
 	-> 08.06
@@ -9,7 +9,7 @@ Physique -> 13.04
 
 ---Electrique---
 Systemes -> 13.04
-	-> NC
+	-> 08.06
 
 Elec -> NC
 	-> NC
@@ -26,15 +26,15 @@ Mt -> 26.03
 	-> 11.06
 
 Materiau -> 19.03
-	-> OK
+	-> 29.04
 	-> OK
 
 
 ---Options---
 Bioing -> 03.03
 	-> 09.06
-Amc -> NC
-	-> NC
+
+Amc -> 05.05
 
 Opto -> 21.04
 	-> 9.06 ou 16.06
