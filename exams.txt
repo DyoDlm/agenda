@@ -1,5 +1,5 @@
 ---SB---
-Math ->
+Math -> 
 	->
 
 Physique -> 13.04
@@ -8,7 +8,7 @@ Physique -> 13.04
 
 
 ---Electrique---
-Systemes -> NC
+Systemes -> 13.04
 	-> NC
 
 Elec -> NC
@@ -22,10 +22,10 @@ Tds -> 22.04
 Chimie -> NC
 	-> NC
 
-Mt -> NC
-	-> NC
+Mt -> 26.03
+	-> 11.06
 
-Materiau -> OK
+Materiau -> 19.03
 	-> OK
 	-> OK
 
