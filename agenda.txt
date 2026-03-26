@@ -95,7 +95,7 @@ Me:
 Je:	!! MICROTECHNIQUES 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ve:
+Ve: !! CHI --> Series 3/4/5
 
 WE:
 ---
@@ -105,12 +105,17 @@ Lundi : 30.03.26 <--> Vendredi :
 Lu: !! ELECTRONIQUE
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 Ma:
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Me: !! CHI --> Series 3/4/5
+Me:
 
 Je:
+
+RAPPORTS : AUTOMATIQUE / PHYSIQUE / MATERIAUX / MICROTECHNIQUE
+
+
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ve:
@@ -161,7 +166,6 @@ Ve:
 
 WE:
 ---
-
 Lundi : 20.04.26 <--> Vendredi :
 ---
 Lu:
