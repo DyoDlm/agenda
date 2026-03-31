@@ -129,6 +129,7 @@ WE:
 #################
 
 Lundi : 06.04.26 <--> Vendredi :
+VACANCES 
 ---
 Lu:
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -149,11 +150,11 @@ WE:
 
 Lundi : 13.04.26 <--> Vendredi :
 ---
-Lu:	!!	AUTOMATIQUE
+Lu:	!!	AUTOMATIQUE (deplace pour semaine 20.04)
 	!!	PHYSIQUE ELECTROMAGNETISME
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:
+Ma: !! QCM THEORIQUE (chapitres 1 et 2) 1/3 RADIOPROCTION
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -177,7 +178,7 @@ Ma:	!!	OPTO-ELECTRONIQUE
 
 
 Me:	!!	TDS (cours 1,2,3 + Labo 1)
-	!!	RADIO-PROTECTION
+	!!	EXERCICES RADIO-PROTECTION 2/3 
 
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
