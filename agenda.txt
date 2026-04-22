@@ -13,117 +13,6 @@ cours = { PHY ; MATH ; MOT ; MIC ; ELE ; C ; MATE ; SIG ; EDC ; CHI }
 
 
 
-
-#################
-#	MARS	#
-#################
-
-Lundi : 02.03.26 <--> Vendredi :
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:	!! BIOING PRESENTION
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-WE:
----
-
-Lundi : 09.03.26 <--> Vendredi :
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-
-WE:
----
-
-Lundi : 16.03.26 <--> Vendredi :
----
-Lu:	RDV CREMASCO
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:	!!	MATERIAUX
-	-- ex 19.4 -- S4 (metal / semi-conducteur) -- S7 (bandes)
-    -- S8 (differnetes structures de bandes) -- S13 : 3.1 sig = n*e*u (expliquer)
-    -- S16 (diffusions regle matthiessen) -- S18 (impuretees expliquer) --- 
-    --- S19 (regle Nordheim) --- S26--27--28--29--36--43(3 mecanismes)
-    -- S44-5-6-7-8-9--S50--52(baryum cristaline) + tous polaristation
-
-    --- + tous les exercices 
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-WE:
----
-
-Lundi : 23.03.26 <--> Vendredi :
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:	!! MICROTECHNIQUES 
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve: !! CHI --> Series 3/4/5
-
-WE:
----
-
-Lundi : 30.03.26 <--> Vendredi :
----
-Lu: !! ELECTRONIQUE
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:
-
-RAPPORTS : AUTOMATIQUE / PHYSIQUE / MATERIAUX / MICROTECHNIQUE
-
-
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-WE:
----
-
 #################
 #	AVRIL	#
 #################
@@ -206,6 +95,8 @@ Je:	!!	MATERIAUX
 
 Ve:
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
+
+!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS
 
 WE:
 ---
