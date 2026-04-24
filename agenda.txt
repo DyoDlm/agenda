@@ -105,6 +105,9 @@ WE:
 #	MAI	#
 #################
 
+!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS
+
+
 Lundi : 04.05.26 <--> Vendredi :
 ---
 Lu:
@@ -125,6 +128,9 @@ WE:
 ---
 
 Lundi : 11.05.26 <--> Vendredi :
+
+! PHYSIQUE OPTIQUE + OPTOELECTRONIQUE !
+
 ---
 Lu:
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -144,6 +150,9 @@ WE:
 ---
 
 Lundi : 18.05.26 <--> Vendredi :
+
+! PHYSIQUE OPTIQUE + OPTOELECTRONIQUE !
+
 ---
 Lu:
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -164,6 +173,9 @@ WE:
 
 Lundi : 25.05.26 <--> Vendredi :
 ---
+
+!  PHYSIQUE OPTIQUE + OPTOELECTRONIQUE !
+
 Lu:
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -184,6 +196,9 @@ WE:
 #################
 #	JUIN	#
 #################
+
+! CHIMIE ET ELEC ? + RENDU PROJET AMC !
+
 
 Lundi : 01.06.26 <--> Vendredi :
 ---
@@ -207,13 +222,11 @@ WE:
 Lundi : 08.06.26 <--> Vendredi :
 ---
 Lu:	!!	PHYSIQUE OPTIQUE 
-	!!	MATHS
     !!  Systemes asservis
 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:	!!	BIOING
-    !!  OPTO-ELECTRONIQUE
 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -232,11 +245,11 @@ WE:
 
 Lundi : 15.06.26 <--> Vendredi :
 ---
-Lu:	!!	MATHS (A deplacer svp)
+Lu:	!!	MATHS (A deplacer ici !)
 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:	!!	OPTO-ELECTRONIQUE
+Ma:	!!	OPTO-ELECTRONIQUE (a deplacer ici !)
 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
