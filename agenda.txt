@@ -12,100 +12,11 @@ GLOSSAIRE :
 cours = { PHY ; MATH ; MOT ; MIC ; ELE ; C ; MATE ; SIG ; EDC ; CHI }
 
 
-
-#################
-#	AVRIL	#
-#################
-
-Lundi : 06.04.26 <--> Vendredi :
-VACANCES 
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-
-WE:
----
-
-Lundi : 13.04.26 <--> Vendredi :
----
-Lu:	!!	PHYSIQUE ELECTROMAGNETISME
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma: !! QCM THEORIQUE (chapitres 1 et 2) 1/3 RADIOPROCTION
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-WE:
----
-Lundi : 20.04.26 <--> Vendredi :
----
-Lu: !! Automatique
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:	!!	OPTO-ELECTRONIQUE
-	!!	EXERCICES RADIO-PROTECTION 2/3 
-
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-Me:	!!	TDS (cours 1,2,3 + Labo 1)
-
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-
-WE:
----
-
-Lundi : 27.04.26 <--> Vendredi :
----
-Lu:	!!	MATH
-		--> Champs vectoriels
- 
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:	!!	MATERIAUX
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS
-
-WE:
----
-
 #################
 #	MAI	#
 #################
 
-!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS
+!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS / PROJET THEMATIQUE
 
 
 Lundi : 04.05.26 <--> Vendredi :
