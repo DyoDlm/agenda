@@ -117,6 +117,7 @@ Lu: !!  ELECTRONIQUE
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma:	!!	RADIO-PROTECTION
+    !!!  OPTOELECTRONIQUE   !!!
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -141,7 +142,8 @@ Ma:	!!	BIOING
 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Me:	!!	TDS (cours 4,5,6)
+Me:	!!  PRESENTATION PHYSIQUE
+    !!	TDS (cours 4,5,6)
 
 Je:	!!	MICROTECHNIQUES
     !!	Materiaux
@@ -156,11 +158,11 @@ WE:
 
 Lundi : 15.06.26 <--> Vendredi :
 ---
-Lu:	!!	MATHS (A deplacer ici !)
+Lu:	!!	MATHS
 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:	!!	OPTO-ELECTRONIQUE (a deplacer ici !)
+Ma:
 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
