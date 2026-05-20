@@ -111,8 +111,8 @@ Lundi : 01.06.26 <--> Vendredi :
 Lu: !!  ELECTRONIQUE
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:	!!!  OPTO   !!!
-    !!	RADIO-PROTECTION
+Ma:	!!	RADIO-PROTECTION
+    !!!  OPTOELECTRONIQUE   !!!
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -136,7 +136,8 @@ Ma:	!!	BIOING
 
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Me:	!!	TDS (cours 4,5,6)
+Me:	!!  PRESENTATION PHYSIQUE
+    !!	TDS (cours 4,5,6)
 
 Je:	!!  Pres Materiaux 11h30
     !!	MICROTECHNIQUES
@@ -152,10 +153,18 @@ WE:
 
 Lundi : 15.06.26 <--> Vendredi :
 ---
+<<<<<<< HEAD
 Lu:	G7
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma: !! AMC PRESENTATION 14h00
+=======
+Lu:	!!	MATHS
+
+%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ma:
+>>>>>>> 1d2ca75f709a0fa7bd8abc162f3db9fff1ea76a5
 
 Me: G7 
 
