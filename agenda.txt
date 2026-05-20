@@ -16,68 +16,6 @@ cours = { PHY ; MATH ; MOT ; MIC ; ELE ; C ; MATE ; SIG ; EDC ; CHI }
 #	MAI	#
 #################
 
-Lundi : 04.05.26 <--> Vendredi :
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:	!!	AMC
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-
-WE:
----
-
-Lundi : 11.05.26 <--> Vendredi :
-
-! PHYSIQUE OPTIQUE + OPTOELECTRONIQUE !
-
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-WE:
----
-
-Lundi : 18.05.26 <--> Vendredi :
-
-! PHYSIQUE OPTIQUE + OPTOELECTRONIQUE !
-
----
-Lu:
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Me:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
-
-WE:
----
 
 Lundi : 25.05.26 <--> Vendredi :
 ---
@@ -115,7 +53,7 @@ Ma:	!!	RADIO-PROTECTION
     !!!  OPTOELECTRONIQUE   !!!
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Me:
+Me: !! Presentation Simulation
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Je:
@@ -151,20 +89,15 @@ Ve:
 WE:
 ---
 
+
+
 Lundi : 15.06.26 <--> Vendredi :
 ---
-<<<<<<< HEAD
 Lu:	G7
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ma: !! AMC PRESENTATION 14h00
 =======
-Lu:	!!	MATHS
-
-%%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ma:
->>>>>>> 1d2ca75f709a0fa7bd8abc162f3db9fff1ea76a5
 
 Me: G7 
 
@@ -172,26 +105,6 @@ Je: !!  Systemes asservis
 
 Ve: !! MATHS (a deplacer)
 
-WE:
----
-
-Lundi : 22.06.26 <--> Vendredi :
----
-Lu:
-Ma:
-Me:
-Je:
-Ve:
-WE:
----
-
-Lundi : 29.06.26 <--> Vendredi :
----
-Lu:
-Ma:
-Me:
-Je:
-Ve:
 WE:
 ---
 
