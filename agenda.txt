@@ -16,9 +16,6 @@ cours = { PHY ; MATH ; MOT ; MIC ; ELE ; C ; MATE ; SIG ; EDC ; CHI }
 #	MAI	#
 #################
 
-!!  RAPPORTS : MATERIAUX / MICROTEC / SYSTEMES ASSERVIS / PROJET THEMATIQUE
-
-
 Lundi : 04.05.26 <--> Vendredi :
 ---
 Lu:
@@ -98,7 +95,7 @@ Me:
 Je:
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ve:
+Ve: !!  CHIMIE
 %%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 WE:
@@ -108,15 +105,14 @@ WE:
 #	JUIN	#
 #################
 
-! CHIMIE ET ELEC ? + RENDU PROJET AMC !
-
 
 Lundi : 01.06.26 <--> Vendredi :
 ---
 Lu: !!  ELECTRONIQUE
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:	!!	RADIO-PROTECTION
+Ma:	!!!  OPTO   !!!
+    !!	RADIO-PROTECTION
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
 Me:
@@ -133,7 +129,6 @@ WE:
 Lundi : 08.06.26 <--> Vendredi :
 ---
 Lu:	!!	PHYSIQUE OPTIQUE 
-    !!  Systemes asservis
 
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -143,7 +138,8 @@ Ma:	!!	BIOING
 
 Me:	!!	TDS (cours 4,5,6)
 
-Je:	!!	MICROTECHNIQUES
+Je:	!!  Pres Materiaux 11h30
+    !!	MICROTECHNIQUES
     !!	Materiaux
 	
 %%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
@@ -156,21 +152,16 @@ WE:
 
 Lundi : 15.06.26 <--> Vendredi :
 ---
-Lu:	!!	MATHS (A deplacer ici !)
-
+Lu:	G7
 %%%%%%%%%%%%%%%%%%% 17h Clara ARA %%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ma:	!!	OPTO-ELECTRONIQUE (a deplacer ici !)
+Ma: !! AMC PRESENTATION 14h00
 
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
+Me: G7 
 
-Me:
-%%%%%%%%%%%%%%%%%%% 17h Mouna ARA %%%%%%%%%%%%%%%%%%%%%%%%%
+Je: !!  Systemes asservis
 
-Je:
-%%%%%%%%%%%%%%%%%%% 18h Nolan ARA %%%%%%%%%%%%%%%%%%%%%%%%%
-
-Ve:
+Ve: !! MATHS (a deplacer)
 
 WE:
 ---
